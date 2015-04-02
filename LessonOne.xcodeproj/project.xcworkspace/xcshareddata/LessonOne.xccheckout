@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0FA16BD-EC3C-4737-AF77-0FA210710F9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LessonOne</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E4974E84FF966913AA2FA5F2AA542E95E6533CD4</key>
+		<string>https://github.com/Fluorit/LessonOne.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LessonOne.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E4974E84FF966913AA2FA5F2AA542E95E6533CD4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Fluorit/LessonOne.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4974E84FF966913AA2FA5F2AA542E95E6533CD4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4974E84FF966913AA2FA5F2AA542E95E6533CD4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LessonOne</string>
+		</dict>
+	</array>
+</dict>
+</plist>
