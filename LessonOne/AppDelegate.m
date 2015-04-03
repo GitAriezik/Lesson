@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
     
     BakeHouse *house = [[BakeHouse alloc]init];
-    [House start_BakeHouse];
+    [house start_BakeHouse];
     
     return YES;
 }
