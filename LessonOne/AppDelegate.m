@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    BakeHouse *House = [[BakeHouse alloc]init];
+    BakeHouse *house = [[BakeHouse alloc]init];
     [House start_BakeHouse];
     
     return YES;
